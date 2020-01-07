@@ -1,0 +1,1 @@
+time_last_spawn = 0;
